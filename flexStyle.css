@@ -1,0 +1,36 @@
+
+.parent-block{
+    display: flex;
+    flex-direction: column-reverse;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+
+}
+.box01 {
+    background-color: rgb(27, 177, 122);
+        height: 100px;
+        width: 100px;
+        color: white;
+        border: 4px ridge rgba(108, 29, 78, 0.807);
+        float:right;
+        margin-right: 5px;
+    }
+    .box02 {
+         background-color: rgb(86, 95, 221);
+        height: 100px;
+        width: 100px;
+        color: white;
+        border: 4px ridge black;
+        float: right;
+        margin-right: 5px;
+    }
+.box03 {
+  
+    background-color: rgb(226, 42, 97);
+    height: 100px;
+    width: 100px;
+    color: white;
+    border: 4px ridge black;
+    float: right;
+    margin-right: 5px;
+} 

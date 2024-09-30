@@ -1,0 +1,29 @@
+body {
+    margin:40px ;
+    background-color: yellow;
+    display: flex;
+    box-shadow: 0cqh;
+    border:solid1px green;
+    }
+    .wrapper {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-gap: 1px;
+    color:black;
+    font-style: italic ;
+    }
+    .box {
+    background-color: #dae0e3;
+    box-shadow: #42a3d0;
+    border-radius: 5px;
+    padding: 20px ;
+    font-size: 150%;
+    }
+   #item{
+    grid-column-start:span 2;
+    grid-column-end:span 2 ;
+    grid-row-start: 1;
+    grid-column-start: 2;
+    grid-row-end: 2;
+    
+   }

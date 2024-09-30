@@ -1,0 +1,33 @@
+body {
+    margin:40px ;
+    background-color: hsl(39, 30%, 91%);
+    display: flex;
+    box-shadow: 6cap;
+    border:solid1px green;
+    font-family: "Sofia", sans-serif;
+
+    }
+    .box {
+        border: 10px solid black;
+  outline-style: solid  ;
+  outline-color: rgb(0, 213, 255);
+  outline-width:thick ;
+  height: 200px;
+  width: 300px;
+  border-radius: 2px solid blue;
+  color: aqua;
+  outline-offset: 15px;
+ 
+}
+p {
+    color: blueviolet;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    height: 5px;
+    text-decoration-line: underline;
+    text-decoration-color: aqua;
+  }
+
+
+
+    
